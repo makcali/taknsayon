@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62924" started-at="2021-07-08T01:02:11 EET" finished-at="2021-07-08T01:03:14 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62924" started-at="2021-07-08T01:02:11 EET" finished-at="2021-07-08T01:03:14 EET">
+      <class name="Teknasyon.Teknasyon.PaintingTest">
+        <test-method status="PASS" signature="driverSetup()[pri:0, instance:Teknasyon.Teknasyon.PaintingTest@45820e51]" name="driverSetup" is-config="true" duration-ms="24426" started-at="2021-07-08T01:02:11 EET" finished-at="2021-07-08T01:02:35 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method status="PASS" signature="painting()[pri:0, instance:Teknasyon.Teknasyon.PaintingTest@45820e51]" name="painting" duration-ms="38393" started-at="2021-07-08T01:02:35 EET" finished-at="2021-07-08T01:03:14 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- painting -->
+        <test-method status="PASS" signature="driverQuit()[pri:0, instance:Teknasyon.Teknasyon.PaintingTest@45820e51]" name="driverQuit" is-config="true" duration-ms="0" started-at="2021-07-08T01:03:14 EET" finished-at="2021-07-08T01:03:14 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverQuit -->
+      </class> <!-- Teknasyon.Teknasyon.PaintingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
